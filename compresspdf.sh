@@ -1,5 +1,5 @@
-# Kompresira sve PDF datoteke iz mape pomoću ps2pdf skripte ghostscripta.
-# Kompresirane datoteke smješta u mapu rez, a izvorne briše.
+# Smanjuje veličinu svih PDF datoteka iz mape pomoću ps2pdf skripte ghostscripta.
+# Sažete verzije datoteka smješta u mapu rez, a izvorne briše.
 #
 # Primjena: ./compresspdf.sh 
 #
