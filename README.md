@@ -1,3 +1,3 @@
 # Razne skripte, pomoćni programi i sl.
 
-* _compresspdf.sh_ - bash shell skripta koja sažima PDF datoteke nastale skeniranjem pomoću ps2pdf skripte Ghostscript alata (ovisno o sadržaju smanjenje veličine je do 50%)
+* *compresspdf.sh* - bash shell skripta koja sažima PDF datoteke nastale skeniranjem pomoću ps2pdf skripte Ghostscript alata (ovisno o sadržaju smanjenje veličine je do 50%)
